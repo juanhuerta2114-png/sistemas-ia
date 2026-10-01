@@ -19,3 +19,6 @@ Juan Pablo González
 - Python
 - Git
 - GitHub
+
+## Estado del proyecto
+Prototipo inicial.
